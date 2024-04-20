@@ -6,7 +6,7 @@ This is a simple Hello World in ElectronJs that provides a minimal setup to get 
 
 This project uses Electron Forge to simplify the process of working with Electron. To start the application in a development environment, use:
 
-npm run dev
+```npm run dev```
 
 This command will launch the Electron application with hot reloading enabled, allowing you to see your changes in real-time.
 
@@ -22,4 +22,9 @@ ShadCn : For using the components and styles from ShadCn.
 Building for Production
 To build the Electron application for production, run:
 
-npm run make
+```npm run make```
+
+
+ScreenShot 
+
+
